@@ -4,7 +4,7 @@ public class Rectangle {
     private double width;
 
     public double getArea(){
-        retunr height * width;
+        return height * width;
     }
 
     public double getPerimeter(){
